@@ -7,6 +7,7 @@ enviar y recibir correos, gestionar contactos y programar envíos automáticos, 
 gráfica intuitiva. La aplicación está diseñada para simular un entorno de correo electrónico real, con
 funcionalidades como bandeja de entrada, correos eliminados y generación de reportes, enfocándose en el
 uso eficiente de estructuras de datos dinámicas.
+
 El sistema incluirá un usuario administrador (root) con privilegios especiales, como la carga masiva de
 usuarios desde un archivo JSON y la generación de reportes específicos. Los usuarios estándar podrán
 interactuar con una bandeja de entrada, enviar correos a contactos registrados, programar correos y
