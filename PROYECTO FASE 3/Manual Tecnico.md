@@ -418,7 +418,16 @@ De esta manera se ve la carga masvia. En esta parte realizara dicha carga
 
 [![Captura-desde-2025-10-24-18-59-19.png](https://i.postimg.cc/FHpss02c/Captura-desde-2025-10-24-18-59-19.png)](https://postimg.cc/9D4jLwXF)
 
+### Control de Logueo
+Esta parte muestra quienes han ingresado a la plataforma y tambien se puede exportar a un archivo .Json 
 
+[![Captura-desde-2025-10-24-19-05-54.png](https://i.postimg.cc/Wp5nrygF/Captura-desde-2025-10-24-19-05-54.png)](https://postimg.cc/QVW1Z06h)
+
+### Creacion de comunidades 
+
+En esta parte el Usuario ROOT siendo administrador puede crear comunidades 
+
+[![Captura-desde-2025-10-24-19-07-26.png](https://i.postimg.cc/dVrrWNkz/Captura-desde-2025-10-24-19-07-26.png)](https://postimg.cc/Yv2v03x3)
 ##### Menu de Usuario
 
 El usuario podra realizar todo esto que se le indica 
